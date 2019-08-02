@@ -1,0 +1,24 @@
+# Blender MTL File: 'TankFloor.blend'
+# Material Count: 2
+
+newmtl avatar
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.761353
+illum 2
+map_Kd bareoak.jpg
+
+newmtl clearsides
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.397186 0.640000 0.319262
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.800000
+illum 2
+map_Kd bareoak.jpg
